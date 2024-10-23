@@ -1,0 +1,96 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "image": "https://i.ibb.co.com/vzw1V4q/istockphoto-923491342-612x612.jpg",
+      "short_description": "A delicious grilled chicken recipe with fresh basil and soy sauce.",
+      "ingredients": [
+        "550g chicken breast",
+        "120 ml soy sauce",
+        "200 g fresh basil",
+        "2 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": 350
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "image": "https://i.ibb.co.com/tLKhqvb/istockphoto-pnj1.jpg",
+      "short_description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g grated Parmesan cheese",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": 500
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegan Buddha Bowl",
+      "image": "https://i.ibb.co.com/MspN6V7/istockphoto-628095632-612x612.jpg",
+      "short_description": "A healthy bowl of quinoa, veggies, and tofu with a tahini dressing.",
+      "ingredients": [
+        "100g quinoa",
+        "150g tofu, cubed",
+        "1 avocado, sliced",
+        "100g spinach",
+        "1 carrot, shredded",
+        "2 tbsp tahini"
+      ],
+      "preparing_time": "25 minutes",
+      "calories": 400
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "image": "https://i.ibb.co.com/2dqt59b/istockphoto-1130112004-612x612.jpg",
+      "short_description": "Crispy tacos filled with seasoned beef, lettuce, and cheese.",
+      "ingredients": [
+        "500g ground beef",
+        "8 taco shells",
+        "100g lettuce, shredded",
+        "50g cheddar cheese, grated",
+        "1 tomato, diced",
+        "1 tbsp taco seasoning"
+      ],
+      "preparing_time": "15 minutes",
+      "calories": 600
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Margarita Pizza",
+      "image": "https://i.ibb.co.com/PWnG6QX/istockphoto-603906484-612x612.jpg",
+      "short_description": "A simple pizza with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "200g mozzarella cheese",
+        "2 tomatoes, sliced",
+        "100g fresh basil leaves",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "45 minutes",
+      "calories": 700
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chocolate Brownies",
+      "image": "https://i.ibb.co.com/BTJxr2Q/istockphoto-1197494143-612x612.jpg",
+      "short_description": "Rich and fudgy chocolate brownies with a crispy top.",
+      "ingredients": [
+        "200g dark chocolate",
+        "100g butter",
+        "150g sugar",
+        "2 eggs",
+        "50g flour",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "40 minutes",
+      "calories": 450
+    }
+  ]
