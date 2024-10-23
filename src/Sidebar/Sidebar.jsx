@@ -1,4 +1,3 @@
-// import Read from "../Read/Read";
 
 const Sidebar = ({recipeQueue, handelRemove, preparedRecipe}) => {
     return (
