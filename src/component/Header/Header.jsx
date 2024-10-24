@@ -33,7 +33,7 @@ const Header = () => {
       </ul>
     </div>
   </div>
-</div>
+            </div>
 
 {/* Banner section code */}
 <div
